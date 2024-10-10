@@ -3,10 +3,10 @@
     {
       "identity" : "libffi",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/623637646/libffi.git",
+      "location" : "https://github.com/yongwoo-jo/libffi.git",
       "state" : {
-        "revision" : "bc1dac0c1b522539f21fc28fe1f7e07bb7c2fbd5",
-        "version" : "3.4.5"
+        "revision" : "18a138e7901323ccc1766426c534fae4cee40018",
+        "version" : "3.4.6"
       }
     }
   ],
